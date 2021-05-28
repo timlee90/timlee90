@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @timlee90
+- 👀 I’m interested in Batch, Bash, Powershell, HTML and CSS.
+- 🌱 I’m currently learning to use Powershell and Bash.
